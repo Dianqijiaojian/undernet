@@ -1,7 +1,8 @@
 # darknet
 [转自网络:]
+
 暗网导航
-2022年3月份最新的暗网导航，由于2021年10月Tor项目将彻底禁用V2暗网域名，这里只给大家整理了Tor项目支持且存活的V3暗网网站域名，最新的2022暗网网址入口如下： 
+由于2021年10月Tor项目将彻底禁用V2暗网域名，这里只给大家整理了Tor项目支持且存活的V3暗网网站域名： 
 
 1、Facebook – Log In or Sign Up
 https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
